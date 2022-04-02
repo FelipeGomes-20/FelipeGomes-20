@@ -10,7 +10,7 @@
   <img align="center" alt="Fel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fel-MySQL" height="30" width="40" src="https://camo.githubusercontent.com/578a8d0d073864a5cfcdf3f6b7f2ce9bf08424c2619006a468356e46de1d2a34/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6d7973716c2d6c6f676f2e706e67">
-  <img align="right" alt="Fel-pic" height="150" style="border-radius:200px;" src="https://scontent.fcgh17-1.fna.fbcdn.net/v/t1.6435-9/180725490_2947963468821394_8854066909936093033_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGarV1lu-PdcaeVio0tCrBGQH2XDTxkkmpAfZcNPGSSatT4ObbNsp-blf8QXZmwawl4nH6Ejp7N-tQMw4S9_ZSK&_nc_ohc=rT2hSbfRmBkAX-E6Ob0&_nc_ht=scontent.fcgh17-1.fna&oh=00_AT91nu4W_tTTmC5pAApc4p_WD-sshjHSF869qGBVT9zexg&oe=62515156">
+  <img align="right" alt="Fel-pic" height="150" style="border-radius:300px;" src="https://scontent.fcgh17-1.fna.fbcdn.net/v/t1.6435-9/180725490_2947963468821394_8854066909936093033_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGarV1lu-PdcaeVio0tCrBGQH2XDTxkkmpAfZcNPGSSatT4ObbNsp-blf8QXZmwawl4nH6Ejp7N-tQMw4S9_ZSK&_nc_ohc=rT2hSbfRmBkAX-E6Ob0&_nc_ht=scontent.fcgh17-1.fna&oh=00_AT91nu4W_tTTmC5pAApc4p_WD-sshjHSF869qGBVT9zexg&oe=62515156">
 </div>
   
   ##
