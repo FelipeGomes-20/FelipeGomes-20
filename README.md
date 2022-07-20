@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Felipe Gomes 👋</h1>
-<h2 align="center">technology student with focus on back-end development</h2>
+<h2 align="center">Technology student focusing on back-end development and Atomation Developer at Accenture</h2>
 
 <div align="center">
   <a href="https://github.com/FelipeGomes-20">
