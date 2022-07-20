@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Felipe Gomes 👋</h1>
+<h1 align="center">Hi, I'm Felipe 👋</h1>
 <h2 align="center">Technology student focusing on back-end development and Automation Developer at Accenture</h2>
 
 <div align="center">
