@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGomes-20&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+###
 
 <img align="right" height="150" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"  />
 
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
 </div>
 
-##
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
@@ -70,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-##
+###
  
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-gomes-932465244/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -86,4 +86,4 @@
 
 <img src="https://raw.githubusercontent.com/FelipeGomes-20/FelipeGomes-20/output/snake.svg" alt="Snake animation" />
 
-##
+###
