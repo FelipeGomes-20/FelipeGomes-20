@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe and I'm a FullStack Developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! My name is Felipe and I'm a FullStack Developer.</h2>
 
 <div align="center">
   <a href="https://github.com/FelipeGomes-20">
